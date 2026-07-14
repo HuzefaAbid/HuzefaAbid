@@ -30,21 +30,34 @@ I am a passionate **MERN Stack & DevOps Developer** pursuing a Bachelor of Scien
 
 ### 📂 Featured Projects
 
-#### 🚀 **SYNC — Student-Industry Marketplace (Final Year Project)**
-*An ecosystem bridging academic talent with industry clients, utilizing decentralized milestone-based payments and academic oversight.*
-* **Real-time Engine:** Integrated **Socket.io** and **Redis Pub/Sub** for instant notifications and application tracking.
-* **Microservices Architecture:** Orchestrated multiple services using **Docker** and **Apache Kafka** to seamlessly integrate Python-based machine learning models with the Node.js backend.
-* **CI/CD & Security:** Engineered a robust role-based access control (RBAC) mechanism and automated deployments using **Jenkins** pipelines.
+#### 🚀 **[SYNC](https://github.com/HuzefaAbid/SYNC)** (Final Year Project)
+*A student-industry marketplace bridging students with industry clients, featuring milestone-based payments and academic supervision.*
+* **Real-time Interaction:** Integrated **Socket.io** and **Redis Pub/Sub** for application tracking and live notifications.
+* **Microservices Design:** Leveraged **Docker** and **Apache Kafka** to communicate between the Node.js backend and Python ML microservices.
+* **Continuous Integration:** Structured automated testing and deployment workflows using **Jenkins** CI/CD pipelines.
 
-#### 🏥 **Healthcare Management System**
-*A secure patient-doctor communication and scheduling portal.*
-* **Performance Tuning:** Implemented **Redis Caching** which reduced database load by **40%**, alongside **Redis Pub/Sub** for real-time doctor-patient messaging.
-* **Hardened Security:** Integrated **Helmet.js**, strict rate-limiting, and sanitized input vectors to mitigate SQL injection, XSS, and DDoS vulnerabilities.
+#### 🏥 **[Healthcare Management System](https://github.com/HuzefaAbid/healthcare-management-system)**
+*A secure patient-doctor communications portal optimized for high-performance and safety.*
+* **Performance Optimization:** Implemented **Redis Caching** to reduce database read load by **40%**, utilizing **Redis Pub/Sub** for instant chat messaging.
+* **Web Security:** Configured **Helmet.js**, express-rate-limiters, and input sanitization to block DDoS, XSS, and injection vectors.
 
-#### 🏠 **Airbnb Clone**
-*A rental marketplace platform constructed with clean architecture.*
-* **Design Pattern:** Built using the **MVC architecture** pattern with Node.js, Express, and MongoDB.
-* **Rendering:** Leveraged **EJS** for dynamic, responsive server-side view compilation and full CRUD data lifecycle management.
+#### 📁 **[Project Management System](https://github.com/HuzefaAbid/Project-Management-System)**
+*A robust, full-stack management board designed to orchestrate projects, task hierarchies, and user workspace roles.*
+* **Backend Framework:** Built with **Express 5.x** and **Mongoose**, featuring full user verification and JWT token lifecycles.
+* **Granular Organization:** Allows administrators to assign team members to projects, update permissions, track task priorities, and manage subtasks.
+
+#### 🏠 **[Airbnb Clone (with CI)](https://github.com/HuzefaAbid/Airbnb-clone-ci)**
+*A rental marketplace platform built using clean architectural practices and dynamic rendering.*
+* **Architecture Pattern:** Implemented the classic **MVC (Model-View-Controller)** pattern with **Node.js, Express, and MongoDB**.
+* **Dynamic Views:** Used **EJS** for compilations of views on the server-side, with full CRUD database pipelines.
+
+#### 🟢 **[Node.js Projects Collection](https://github.com/HuzefaAbid/Node-js-Projects)**
+*A repository showcasing foundational concepts in vanilla Node.js.*
+* **Core Concepts:** Built a custom CLI file-based database, a custom HTTP routing server from scratch (without frameworks), and an event-driven logger.
+
+#### 💻 **[Basic JavaScript Projects](https://github.com/HuzefaAbid/Basic-JS-Projects)**
+*A collection of interactive frontend web applications built using vanilla JavaScript.*
+* **Frontend Techniques:** Demonstrates DOM manipulation, browser API integrations, asynchronous fetch requests, and state persistence with LocalStorage.
 
 ---
 
