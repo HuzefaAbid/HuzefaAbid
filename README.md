@@ -51,9 +51,10 @@ I am a passionate **MERN Stack & DevOps Developer** pursuing a Bachelor of Scien
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HuzefaAbid&show_icons=true&theme=tokyonight&count_private=true" alt="Huzaifa's GitHub Stats" height="180px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzefaAbid&layout=compact&theme=tokyonight&langs_count=6" alt="Huzaifa's Top Languages" height="180px" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HuzefaAbid&theme=tokyonight" alt="Huzaifa's GitHub Stats" height="180px" />
+  <img align="right" src="https://streak-stats.demolab.com/?user=HuzefaAbid&theme=tokyonight" alt="Huzaifa's GitHub Streak" height="180px" />
 </p>
+
 
 <br clear="both" />
 
