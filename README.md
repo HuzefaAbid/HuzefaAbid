@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Huzaifa Abid
+# Hi there! I'm Huzaifa Abid
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;DevOps+Engineer;Full-Stack+Web+Developer;Building+Scalable+Microservices" alt="Typing SVG" />
