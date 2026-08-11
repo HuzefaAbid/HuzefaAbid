@@ -79,7 +79,6 @@ I am always open to discussing new opportunities, collaborations, or tech:
 
 * 📧 **Email:** [huzaifa09001@gmail.com](mailto:huzaifa09001@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/huzaifaabiddev](https://www.linkedin.com/in/huzaifaabiddev)
-* 🐙 **GitHub:** [github.com/HuzefaAbid](https://github.com/HuzefaAbid)
 * 📍 **Location:** Islamabad, Pakistan
 
 ---
