@@ -54,6 +54,12 @@ I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** pursuing a 
 * **Backend Framework:** Built with **Express 5.x** and **Mongoose**, featuring full user verification and JWT token lifecycles.
 * **Granular Organization:** Allows administrators to assign team members to projects, update permissions, track task priorities, and manage subtasks.
 
+#### 🛠️ **[Backend Projects](https://github.com/HuzefaAbid/Basic-Backend-Projects)**
+*A curated collection of production-grade Node.js and Express RESTful API backends showcasing secure authentication, clean architecture, and database design.*
+* **Expense Tracker API:** Financial and transaction management service featuring secure JWT authentication, automated email verification and password resets via **Mailtrap SMTP**, and categorization analytics.
+* **TODO List API:** Task and user management backend featuring dual-token authentication (**Access & Refresh Tokens**), password hashing with bcrypt, Winston/Morgan request logging, and comprehensive CRUD with filtering.
+* **Blog API:** RESTful article publishing API equipped with Mongoose schema modeling, input validation middlewares, and standardized API response/error handlers.
+
 #### 🏠 **[Airbnb Clone (with CI)](https://github.com/HuzefaAbid/Airbnb-clone-ci)**
 *A rental marketplace platform built using clean architectural practices and dynamic rendering.*
 * **Architecture Pattern:** Implemented the classic **MVC (Model-View-Controller)** pattern with **Node.js, Express, and MongoDB**.
