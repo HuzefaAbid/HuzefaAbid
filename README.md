@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 
-I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** pursuing a Bachelor of Science in Computer Science at **COMSATS University Islamabad** (Graduation: June 2026). I specialize in architecting secure, high-performance web applications, designing microservices, integrating modern AI capabilities, and setting up automated CI/CD pipelines.
+I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** a graduate with a Bachelor of Science in Computer Science from **COMSATS University Islamabad** (Graduation: June 2026). I specialize in architecting secure, high-performance web applications, designing microservices, integrating modern AI capabilities, and setting up automated CI/CD pipelines.
 
 * 💻 **Backend & Real-Time:** Experienced in building robust APIs with Node.js/Express and PHP/Laravel, caching with Redis, real-time communications using Socket.io, and messaging architectures with Apache Kafka.
 * 🤖 **AI Integration:** Implementing Generative AI capabilities (e.g. Google Gemini) for automated content analysis, knowledge gap telemetry, and real-time moderation.
