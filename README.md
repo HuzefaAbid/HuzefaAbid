@@ -8,7 +8,7 @@
 
 ### 💫 About Me
 
-I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** a graduate with a Bachelor of Science in Computer Science from **COMSATS University Islamabad** (Graduation: June 2026). I specialize in architecting secure, high-performance web applications, designing microservices, integrating modern AI capabilities, and setting up automated CI/CD pipelines.
+I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** and a graduate with a Bachelor of Science in Computer Science from **COMSATS University Islamabad** (Graduation: June 2026). I specialize in architecting secure, high-performance web applications, designing microservices, integrating modern AI capabilities, and setting up automated CI/CD pipelines.
 
 * 💻 **Backend & Real-Time:** Experienced in building robust APIs with Node.js/Express and PHP/Laravel, caching with Redis, real-time communications using Socket.io, and messaging architectures with Apache Kafka.
 * 🤖 **AI Integration:** Implementing Generative AI capabilities (e.g. Google Gemini) for automated content analysis, knowledge gap telemetry, and real-time moderation.
@@ -44,6 +44,13 @@ I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** a graduate 
 * **Microservices Design:** Leveraged **Docker** and **Apache Kafka** to communicate between the Node.js backend and Python ML microservices.
 * **Continuous Integration:** Structured automated testing and deployment workflows using **Jenkins** CI/CD pipelines.
 
+#### 📝 **[Markdown Note-taking App](https://github.com/HuzefaAbid/Markdown-notes-taking-app)**
+*A secure, production-grade RESTful API for Markdown note creation, sanitization, grammar verification, and personal notes management.*
+* **Secure Authentication & Token Lifecycle:** Engineered dual-token authentication (**JWT Access & Refresh Tokens**) with silent rotation, server-side revocation on logout, and SHA-256 hashed email verification and password reset flows via **Mailtrap SMTP**.
+* **Content Processing & XSS Prevention:** Integrated **Marked** and **sanitize-html** to parse and sanitize Markdown into clean HTML, coupled with grammar-check verification and Multer file attachments.
+* **Database Aggregation Pipelines:** Leveraged MongoDB **Aggregation Pipelines (`$lookup`, `$match`, `$addFields`)** to join user profiles with their personal notes and calculate dynamic note statistics in a single database round-trip.
+* **Production Observability & Validation:** Built a decoupled validation layer with **express-validator** and configured a structured logging pipeline with **Winston & Morgan** with automated file rotation.
+
 #### 🏥 **[Healthcare Management System](https://github.com/HuzefaAbid/healthcare-management-system)**
 *A secure patient-doctor communications portal optimized for high-performance and safety.*
 * **Performance Optimization:** Implemented **Redis Caching** to reduce database read load by **40%**, utilizing **Redis Pub/Sub** for instant chat messaging.
@@ -56,6 +63,7 @@ I am a passionate **Full-Stack (MERN & Laravel) & DevOps Developer** a graduate 
 
 #### 🛠️ **[Backend Projects](https://github.com/HuzefaAbid/Basic-Backend-Projects)**
 *A curated collection of production-grade Node.js and Express RESTful API backends showcasing secure authentication, clean architecture, and database design.*
+* **Markdown Note-taking App:** Personal note-taking service with dual-token auth, SHA-256 tokens, Markdown-to-HTML sanitization, and MongoDB aggregation pipelines.
 * **Expense Tracker API:** Financial and transaction management service featuring secure JWT authentication, automated email verification and password resets via **Mailtrap SMTP**, and categorization analytics.
 * **TODO List API:** Task and user management backend featuring dual-token authentication (**Access & Refresh Tokens**), password hashing with bcrypt, Winston/Morgan request logging, and comprehensive CRUD with filtering.
 * **Blog API:** RESTful article publishing API equipped with Mongoose schema modeling, input validation middlewares, and standardized API response/error handlers.
